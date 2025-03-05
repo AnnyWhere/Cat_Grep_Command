@@ -1,0 +1,2 @@
+Test with special characters: !@#$%^&*()
+End of special characters test.
